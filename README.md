@@ -1,1 +1,1 @@
-# leetcode problems and another solutions to most common web developer challenges
+# leetcode problems and solutions to most common web developer challenges

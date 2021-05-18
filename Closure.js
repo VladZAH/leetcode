@@ -1,8 +1,8 @@
 
-const clsr = (m) => {
+const clsrSum = (m) => {
  return function(n) {
    return m + n
  }
 }
 
-console.log(clsr(3)(5))
+console.log(clsrSum(3)(5))
